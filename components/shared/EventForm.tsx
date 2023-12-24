@@ -13,11 +13,10 @@ import { Textarea } from "@/components/ui/textarea"
 import { FileUploader } from "./FileUploader"
 import { useState } from "react"
 import Image from "next/image"
-import DatePicker from 'react-datepicker'
-import "react-datepicker/dist/react-datepicker.css";
+import DatePicker from "react-datepicker";
 import { useUploadThing } from '@/lib/uploadthing'
 
-
+import "react-datepicker/dist/react-datepicker.css";
 import { Checkbox } from "../ui/checkbox"
 import { useRouter } from "next/navigation"
 import { createEvent, updateEvent } from "@/lib/actions/event.actions"
