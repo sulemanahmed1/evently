@@ -37,3 +37,5 @@ STRIPE_WEBHOOK_SECRET=<Your Stripe webhook secret here>
 // NEXT_PUBLIC_SERVER_URL=http://<your app url> ( for prod, keep in mind if you are using https then add the 's' after http  )
 
 ```
+
+Lastly there the userid should be exposed from Clerk so that clerk userid can be saved in mongodb and the mongodb userid is saved in clerk. 
