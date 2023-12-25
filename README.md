@@ -1,10 +1,10 @@
-You can visit the application and use the functionalities on this URL: https://evently-neon.vercel.app/ 
-This application is created using Nextjs and MongoDB. Additional external libraries are use and are following 
-Clerk for authentication (You have to create a webhook for Clerk as well)  
-Stripe for payments      (You have to create a webhook for Stripe as well) 
-SHADCN for UI components 
-Uploadthing for uploading images 
-
+You can visit the application and use the functionalities on this URL: https://evently-neon.vercel.app/     
+This application is created using Nextjs and MongoDB. Additional external libraries are use and are following       
+Clerk for authentication (You have to create a webhook for Clerk as well)       
+Stripe for payments      (You have to create a webhook for Stripe as well)     
+SHADCN for UI components       
+Uploadthing for uploading images    
+       
 In order to download and use this application you would have to install all the npm packages 
 
 ```bash 
